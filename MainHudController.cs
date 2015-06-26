@@ -4,7 +4,7 @@ using System.Collections;
 using SanGames;
 using SanGames.GlobalType;
 
-public class MainHudController : MonoSingleton<MainHudController>
+public class MainHudController : MonoSingleton<MainHudController> 
 {
 	public UILabel RubyLabel;
 	public UILabel GameMoneyLabel;
